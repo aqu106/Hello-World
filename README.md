@@ -1,4 +1,4 @@
 # Hello-World
-currently i am trying to create branches and knowing about commits.
+I just merged my "EXPERIMENTING" branch to master branch and then i deleted the experimenting branch .
 
-This is my very first GitHub repository .
+Now , i have again created the Experiment branch .
